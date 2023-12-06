@@ -14,6 +14,7 @@
 <br>
 
 - Front-end Developer
+- Aprendiendo constantemente
 <!--- Personal website [link](https://www.0xabdulkhalid.ml)-->
 
 <br>
